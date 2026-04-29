@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="dyrakgame/dyrakgame.csproj" />
+  <Project Path="dyraklibrary/dyraklibrary.csproj" />
+  <Project Path="dyraktests/dyraktests.csproj" />
+</Solution>
